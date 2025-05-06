@@ -1,1 +1,1 @@
-# GitTest
+This is a test project to learn how to run git
